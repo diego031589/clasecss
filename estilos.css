@@ -13,6 +13,24 @@ h3 {
     text-align: justifity;
 }
 
-body {
+fondoprincipal {
+    background-color: red;
+}
+
+.tituloprincipal {
     background-color: chocolate;
+}
+
+.titulopagina1 {
+    background-color: blue;
+}
+
+.imagenfondo {
+    background-image: url(img/17336571_303.jpg);
+    height: 600px;
+    background-attachment: fixed;
+}
+
+.textorojo {
+    color: red
 }
